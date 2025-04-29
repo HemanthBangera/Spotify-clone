@@ -83,12 +83,6 @@ project-root/
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here if needed._
-
----
-
 ## 📝 License
 
 This project is for learning and personal use. You may modify and distribute it for educational purposes.
